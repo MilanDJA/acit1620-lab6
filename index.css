@@ -52,5 +52,5 @@ h1 {
 
 .card:hover img {
     opacity: 1;
-    transition: opacity 0.3s ease; /* Example transition duration and timing function */
+    transition: opacity 0.3s ease; 
 }
